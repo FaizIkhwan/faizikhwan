@@ -1,6 +1,6 @@
 ### Hi, I'm Faiz 👋
 
-<img src="https://raw.githubusercontent.com/FaizIkhwan/faizikhwan/master/image/Faiz.png" >
+<img src="https://raw.githubusercontent.com/FaizIkhwan/faizikhwan/master/image/rsz_faiz.png" >
 
 ⚡ I'm an Android developer. Currently working at Kuala Lumpur, Malaysia.
 
